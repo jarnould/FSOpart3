@@ -1,21 +1,21 @@
-GET http://localhost:3001/api/persons/
+GET http://fsopart3-px7k.onrender.com/api/persons/
 
 ###
 
-GET http://localhost:3001/info
+GET http://fsopart3-px7k.onrender.com/info
 
 ###
 
-GET http://localhost:3001/api/persons/1
+GET http://fsopart3-px7k.onrender.com/api/persons/1
 
 ###
-GET http://localhost:3001/api/persons/10
+GET http://fsopart3-px7k.onrender.com/api/persons/10
 
 ###
-DELETE http://localhost:3001/api/persons/1
+DELETE http://fsopart3-px7k.onrender.com/api/persons/1
 
 ###
-POST http://localhost:3001/api/persons/ HTTP/1.1
+POST http://fsopart3-px7k.onrender.com/api/persons/ HTTP/1.1
 content-type: application/json
 
 {
@@ -24,7 +24,7 @@ content-type: application/json
 }
 
 ###
-POST http://localhost:3001/api/persons/ HTTP/1.1
+POST http://fsopart3-px7k.onrender.com/api/persons/ HTTP/1.1
 content-type: application/json
 
 {
@@ -32,7 +32,7 @@ content-type: application/json
 }
 
 ###
-POST http://localhost:3001/api/persons/ HTTP/1.1
+POST http://fsopart3-px7k.onrender.com/api/persons/ HTTP/1.1
 content-type: application/json
 
 {
@@ -40,7 +40,7 @@ content-type: application/json
 }
 
 ###
-POST http://localhost:3001/api/persons/ HTTP/1.1
+POST http://fsopart3-px7k.onrender.com/api/persons/ HTTP/1.1
 content-type: application/json
 
 {
