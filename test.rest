@@ -6,7 +6,7 @@ GET http://fsopart3-px7k.onrender.com/info
 
 ###
 
-GET http://fsopart3-px7k.onrender.com/api/persons/1
+GET http://fsopart3-px7k.onrender.com/api/persons/2
 
 ###
 GET http://fsopart3-px7k.onrender.com/api/persons/10
