@@ -24,6 +24,14 @@ content-type: application/json
 }
 
 ###
+PUT http://localhost:3001/api/persons/65c3c8dfab0b7c32897137f0 HTTP/1.1
+content-type: application/json
+
+{
+    "name": "firstname lastname"
+}
+
+###
 POST http://localhost:3001/api/persons/ HTTP/1.1
 content-type: application/json
 
@@ -38,6 +46,8 @@ content-type: application/json
 {
     "name": "firstname lastname"
 }
+
+
 
 ###
 POST http://localhost:3001/api/persons/ HTTP/1.1
